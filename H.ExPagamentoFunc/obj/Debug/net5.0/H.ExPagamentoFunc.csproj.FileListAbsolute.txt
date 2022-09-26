@@ -1,0 +1,16 @@
+C:\Users\peter\source\repos\H.ExPagamentoFunc\H.ExPagamentoFunc\bin\Debug\net5.0\H.ExPagamentoFunc.exe
+C:\Users\peter\source\repos\H.ExPagamentoFunc\H.ExPagamentoFunc\bin\Debug\net5.0\H.ExPagamentoFunc.deps.json
+C:\Users\peter\source\repos\H.ExPagamentoFunc\H.ExPagamentoFunc\bin\Debug\net5.0\H.ExPagamentoFunc.runtimeconfig.json
+C:\Users\peter\source\repos\H.ExPagamentoFunc\H.ExPagamentoFunc\bin\Debug\net5.0\H.ExPagamentoFunc.runtimeconfig.dev.json
+C:\Users\peter\source\repos\H.ExPagamentoFunc\H.ExPagamentoFunc\bin\Debug\net5.0\H.ExPagamentoFunc.dll
+C:\Users\peter\source\repos\H.ExPagamentoFunc\H.ExPagamentoFunc\bin\Debug\net5.0\ref\H.ExPagamentoFunc.dll
+C:\Users\peter\source\repos\H.ExPagamentoFunc\H.ExPagamentoFunc\bin\Debug\net5.0\H.ExPagamentoFunc.pdb
+C:\Users\peter\source\repos\H.ExPagamentoFunc\H.ExPagamentoFunc\obj\Debug\net5.0\H.ExPagamentoFunc.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\H.ExPagamentoFunc\H.ExPagamentoFunc\obj\Debug\net5.0\H.ExPagamentoFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\H.ExPagamentoFunc\H.ExPagamentoFunc\obj\Debug\net5.0\H.ExPagamentoFunc.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\H.ExPagamentoFunc\H.ExPagamentoFunc\obj\Debug\net5.0\H.ExPagamentoFunc.AssemblyInfo.cs
+C:\Users\peter\source\repos\H.ExPagamentoFunc\H.ExPagamentoFunc\obj\Debug\net5.0\H.ExPagamentoFunc.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\H.ExPagamentoFunc\H.ExPagamentoFunc\obj\Debug\net5.0\H.ExPagamentoFunc.dll
+C:\Users\peter\source\repos\H.ExPagamentoFunc\H.ExPagamentoFunc\obj\Debug\net5.0\ref\H.ExPagamentoFunc.dll
+C:\Users\peter\source\repos\H.ExPagamentoFunc\H.ExPagamentoFunc\obj\Debug\net5.0\H.ExPagamentoFunc.pdb
+C:\Users\peter\source\repos\H.ExPagamentoFunc\H.ExPagamentoFunc\obj\Debug\net5.0\H.ExPagamentoFunc.genruntimeconfig.cache
